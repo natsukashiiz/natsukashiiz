@@ -1,7 +1,7 @@
 Hi everyone, I'm Weerawat, Welcome to my Github profile 👋 <br>
 I’m currently learning Front-End, Back-End, DevOps & more 😍 <br>
 
-WEERAWAT.
+<hr>
 
 Skills
   <li>HTML</li>
@@ -13,5 +13,3 @@ Skills
   <li>SQL</li>
   <li>Vue.js</li>
   <li>Node.js</li>
-
-<hr>
