@@ -11,5 +11,5 @@ Skills
   <li>Javascript</li>
   <li>jQuery</li>
   <li>SQL</li>
-  <li>Vue.js <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" witdh="5px" /></li>
+  <li>Vue.js <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" width="5px" /></li>
   <li>Node.js</li>
