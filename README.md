@@ -4,14 +4,14 @@ I’m currently learning Front-End, Back-End, DevOps & more 😍 <br>
 WEERAWAT.
 
 Skill
-  <p>HTML</p>
-  <p>PHP</p>
-  <p>CSS</p>
-  <p>BOOTSTRAP</p>
-  <p>Javascript</p>
-  <p>jQuery</p>
-  <p>SQL</p>
-  <p>Vue.js</p>
-  <p>Node.js</p>
+  <li>HTML</li>
+  <li>PHP</li>
+  <li>CSS</li>
+  <li>BOOTSTRAP</li>
+  <li>Javascript</li>
+  <li>jQuery</li>
+  <li>SQL</li>
+  <li>Vue.js</li>
+  <li>Node.js</li>
 
 <hr>
