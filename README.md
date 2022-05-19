@@ -1,5 +1,5 @@
-Hi everyone, I'm Weerawat, Welcome to my Github profile 👋
-🌱 I’m currently learning Front-End, Back-End, DevOps & more 😍
+Hi everyone, I'm Weerawat, Welcome to my Github profile 👋 <br>
+🌱 I’m currently learning Front-End, Back-End, DevOps & more 😍 <br>
 
 WEERAWAT.
 
