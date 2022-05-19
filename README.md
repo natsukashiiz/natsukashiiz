@@ -7,7 +7,7 @@ Skills
   <li>HTML</li>
   <li>PHP</li>
   <li>CSS</li>
-  <li>BOOTSTRAP</li>
+  <li>Bootstrap</li>
   <li>Javascript</li>
   <li>jQuery</li>
   <li>SQL</li>
