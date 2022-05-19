@@ -3,8 +3,6 @@ I’m currently learning Front-End, Back-End, DevOps & more 😍 <br>
 
 WEERAWAT.
 
-<hr>
-
 Skill
   HTML
   PHP
@@ -15,3 +13,5 @@ Skill
   SQL
   Vue.js
   Node.js
+
+<hr>
