@@ -1,9 +1,9 @@
-# Hi everyone, I'm Weerawat, Welcome to my Github profile 👋
+## Hi everyone, I'm Weerawat, Welcome to my Github profile 👋
 ### I’m currently learning Front-End, Back-End, More 😍
 
 <hr>
 
-### Skills
+### Skills 💻
   * HTML
   * PHP
   * CSS
