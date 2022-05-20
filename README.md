@@ -20,4 +20,4 @@
 
 <hr>
 
-Support Me : https://ko-fi.com/chaavee_
+Support Me : <a href="https://ko-fi.com/chaavee_" target="_blank">ko-fi.com/chaavee_</a>
