@@ -13,3 +13,7 @@ Skills
   <li>SQL</li>
   <li>Vue.js</li>
   <li>Node.js</li>
+
+<hr>
+
+<img src="https://images.hdqwalls.com/wallpapers/i-love-coding-xl.jpg" />
