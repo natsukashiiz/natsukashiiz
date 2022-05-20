@@ -8,7 +8,7 @@
   * PHP
   * CSS
   * Bootstrap
-  * Javascript
+  * JavaScript
   * jQuery
   * SQL
   * Vue.js
