@@ -11,7 +11,9 @@
   * JavaScript
   * jQuery
   * SQL
+  * Laravel
   * Vue.js
+  * Nuxt.js
   * Node.js
 
 <hr>
