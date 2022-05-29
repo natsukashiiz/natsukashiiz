@@ -4,17 +4,17 @@
 <hr>
 
 ### Skills 💻
-  * HTML : ⭐️⭐️⭐️⭐️⭐️
-  * PHP : ⭐️⭐️⭐️
-  * CSS : ⭐️⭐️
-  * Bootstrap : ⭐️⭐️⭐️
-  * JavaScript : ⭐️⭐️
-  * jQuery : ⭐️⭐️
-  * SQL : ⭐️⭐️⭐️⭐️
-  * Laravel : ⭐️
-  * Vue.js : ⭐️
-  * Nuxt.js : ⭐️
-  * Node.js : ⭐️
+  * HTML
+  * PHP
+  * CSS
+  * Bootstrap
+  * JavaScript
+  * jQuery
+  * SQL
+  * Laravel
+  * Vue.js
+  * Nuxt.js
+  * Node.js
 
 <hr>
 
