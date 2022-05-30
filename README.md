@@ -1,5 +1,5 @@
-## Hi everyone, I'm Weerawat, Welcome to my Github profile 👋
-### I’m currently learning Front-End, Back-End, More 😍
+## Hi everyone, I'm Weerawat, Welcome to my Github profile
+### I’m currently learning Front-End, Back-End and More
 
 <hr>
 
@@ -17,6 +17,7 @@
   * Nuxt.js
   * React.js
   * Node.js
+  * Golang (learning)
 
 <hr>
 
