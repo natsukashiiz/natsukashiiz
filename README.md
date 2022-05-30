@@ -9,6 +9,7 @@
   * CSS
   * Bootstrap
   * JavaScript
+  * TypeScript
   * jQuery
   * SQL
   * Laravel
