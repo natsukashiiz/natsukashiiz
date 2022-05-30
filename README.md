@@ -14,6 +14,7 @@
   * Laravel
   * Vue.js
   * Nuxt.js
+  * React.js
   * Node.js
 
 <hr>
