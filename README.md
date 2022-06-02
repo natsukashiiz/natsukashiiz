@@ -17,8 +17,7 @@
   * Nuxt.js
   * React.js
   * Node.js
-  * Golang (learning)
-
+ 
 <hr>
 
 <img src="https://images.hdqwalls.com/wallpapers/i-love-coding-xl.jpg" />
