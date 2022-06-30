@@ -4,18 +4,10 @@
 <hr>
 
 ### Skills 💻
-  * HTML
-  * PHP
-  * CSS
-  * Bootstrap
-  * JavaScript
   * TypeScript
-  * jQuery
   * SQL
-  * Laravel
   * Vue.js
   * Nuxt.js
-  * React.js
   * Node.js
  
 <hr>
