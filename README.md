@@ -4,11 +4,7 @@
 <hr>
 
 ### Skills 💻
-  * TypeScript
-  * SQL
-  * Vue.js
-  * Nuxt.js
-  * Node.js
+  * Vue.ts
  
 <hr>
 
