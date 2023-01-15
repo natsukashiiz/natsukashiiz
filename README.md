@@ -3,7 +3,10 @@
 <hr>
 
 ### Skills 💻
-  * Vue.ts
+  * HTML
+  * JavaScript
+  * JAVA
+  * SQL
  
 <hr>
 
