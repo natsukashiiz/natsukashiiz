@@ -4,9 +4,13 @@
 
 ### Skills 💻
   * HTML
+  * CSS
   * JavaScript
+  * JQuery
+  * Vue
   * JAVA
   * SQL
+  * Spring Boot
  
 <hr>
 
