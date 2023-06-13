@@ -1,4 +1,4 @@
-## Hi everyone, I'm Vee, Welcome to my Github profile
+## Hi Everyone, Welcome to My Github Profile
 
 <hr>
 
