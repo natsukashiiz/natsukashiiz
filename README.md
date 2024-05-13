@@ -3,14 +3,23 @@
 <hr>
 
 ### Skills 💻
+#### Font-END
   * HTML
   * CSS
-  * JavaScript
   * JQuery
-  * Vue
-  * JAVA
+  * JavaScript
+  * TypeScript
+  * VueJS
+  * NextJS
+  * ReactJS
+
+#### Back-END
   * SQL
+  * JAVA
   * Spring Boot
+  * NodeJS
+  * NestJS
+  * Prisma
  
 <hr>
 
