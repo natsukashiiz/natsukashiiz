@@ -1,8 +1,8 @@
 ## Hi Everyone, Welcome to My Github Profile
 
-<hr>
+`I'm Natsukashiiz, a Full-Stack developer. I started work on September 16, 2022 until now.`
 
-Started work on 16 september 2022 until now.
+<hr>
 
 ### Skills 💻
 #### Font-END
