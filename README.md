@@ -33,6 +33,7 @@ Started work on 16 september 2022 until now.
   * Redis
 
 #### Others
+  * GitHub
   * JWT
   * FCM
   * Ant Design
