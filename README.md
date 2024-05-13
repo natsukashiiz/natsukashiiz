@@ -2,10 +2,13 @@
 
 <hr>
 
+Started work on 16 september 2022 until now.
+
 ### Skills 💻
 #### Font-END
   * HTML
   * CSS
+  * Tailwind
   * JQuery
   * JavaScript
   * TypeScript
@@ -15,12 +18,30 @@
 
 #### Back-END
   * SQL
-  * JAVA
-  * Spring Boot
+  * JAVA 8
+  * Spring Boot 2.7
   * NodeJS
   * NestJS
   * Prisma
- 
+
+#### Server
+  * AWS EC2
+  * Linux
+
+#### Database
+  * MySQL 5.7
+  * Redis
+
+#### Others
+  * JWT
+  * FCM
+  * Ant Design
+  * Naive UI
+  * Next UI
+  * Axios
+  * Pinia
+  * Redux Toolkit
+
 <hr>
 
 <img src="https://qph.cf2.quoracdn.net/main-qimg-34f43c9d31ee17435945a19dfd918a07" />
