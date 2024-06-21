@@ -13,8 +13,9 @@
   * JavaScript
   * TypeScript
   * VueJS
-  * NextJS
+  * NuxtJs
   * ReactJS
+  * NextJS
 
 #### Back-END
   * SQL
