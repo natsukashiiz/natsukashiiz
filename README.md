@@ -19,8 +19,8 @@
 
 #### Back-END
   * SQL
-  * JAVA 8
-  * Spring Boot 2.7
+  * JAVA
+  * Spring Boot
   * NodeJS
   * NestJS
   * Prisma
