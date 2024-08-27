@@ -30,7 +30,7 @@
   * Linux
 
 #### Database
-  * MySQL 5.7
+  * MySQL
   * Redis
 
 #### Others
