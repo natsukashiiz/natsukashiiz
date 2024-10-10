@@ -8,7 +8,7 @@
   * [Web Shop](https://shop.natsukashiiz.online)
 
 ### Skills 💻
-#### Font-END
+#### Fontend
   * HTML
   * CSS
   * Tailwind
@@ -19,7 +19,7 @@
   * ReactJS
   * NextJS
 
-#### Back-END
+#### Backend
   * SQL
   * JAVA
   * Spring Boot (Maven, JDBC, JPA, Flyway, Lombok)
