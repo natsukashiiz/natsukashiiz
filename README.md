@@ -39,7 +39,3 @@
 #### Others
   * GitHub
   * Docker
-
-<hr>
-
-Support Me : <a href="https://ko-fi.com/chaavee_" target="_blank">ko-fi.com/chaavee_</a>
