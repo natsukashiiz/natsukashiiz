@@ -12,7 +12,6 @@
   * HTML
   * CSS
   * Tailwind
-  * JQuery
   * JavaScript
   * TypeScript
   * VueJS
@@ -23,7 +22,7 @@
 #### Back-END
   * SQL
   * JAVA
-  * Spring Boot
+  * Spring Boot (Maven, JDBC, JPA, Flyway, Lombok)
   * NodeJS
   * NestJS
   * Prisma
@@ -34,18 +33,12 @@
 
 #### Database
   * MySQL
+  * MongoDB
   * Redis
 
 #### Others
   * GitHub
-  * JWT
-  * FCM
-  * Ant Design
-  * Naive UI
-  * Next UI
-  * Axios
-  * Pinia
-  * Redux Toolkit
+  * Docker
 
 <hr>
 
