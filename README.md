@@ -4,6 +4,9 @@
 
 <hr>
 
+### Projects
+  * [Web Shop](https://shop.natsukashiiz.online)
+
 ### Skills 💻
 #### Font-END
   * HTML
