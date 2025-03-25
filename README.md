@@ -6,6 +6,7 @@
 
 ### Projects
   * [Web Shop](https://shop.natsukashiiz.online)
+  * [Tic Tac Toe](https://tictactoe.natsukashiiz.online)
 
 ### Skills 💻
 #### Fontend
